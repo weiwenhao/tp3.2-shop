@@ -1,0 +1,650 @@
+[ 2016-12-02T13:46:50+08:00 ] ::1 /wwh_shop/index.php/Admin/top.html
+ERR: 无法加载控制器:Top
+
+[ 2016-12-02T13:46:51+08:00 ] ::1 /wwh_shop/index.php/Admin/menu.html
+ERR: 无法加载控制器:Menu
+
+[ 2016-12-02T13:46:51+08:00 ] ::1 /wwh_shop/index.php/Admin/main.html
+ERR: 无法加载控制器:Main
+
+[ 2016-12-02T18:51:37+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsEdit/goods_id/
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-12-02T18:51:37+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsEdi
+ERR: 非法操作:goodsEdi
+
+[ 2016-12-02T18:51:37+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsEdit/goods_id/
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-12-02T19:03:14+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsEdit.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-12-02T19:03:51+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsEdit.html
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-12-02T19:06:24+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsEdit/goods_id/67.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: goods_name U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1294 行.
+
+[ 2016-12-02T19:08:30+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel/goods_id/67.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-12-02T19:08:37+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel/goods_id/67.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-12-02T19:10:40+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel/goods_id/67.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+
+[ 2016-12-02T19:12:38+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel/goods_id/67.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-12-02T19:20:16+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel/goods_id/67.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-12-02T19:21:22+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel/goods_id/67.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-02T19:21:28+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel/goods_id/67.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-12-02T19:31:54+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel/goods_id/67.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() U:\php\phpstudy\WWW\wwh_shop\Application\Common\Common\function.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-12-02T19:32:07+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel/goods_id/67.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0020s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() U:\php\phpstudy\WWW\wwh_shop\Application\Common\Common\function.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-12-02T19:33:43+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() U:\php\phpstudy\WWW\wwh_shop\Application\Common\Common\function.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-12-02T19:35:07+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 1 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011000s ]
+
+[ 2016-12-02T19:36:44+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0050s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 2 [ RunTime:0.0880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+
+[ 2016-12-02T19:38:42+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0100s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 3 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011000s ]
+
+[ 2016-12-02T19:41:08+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0050s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 5 [ RunTime:0.0100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011000s ]
+
+[ 2016-12-02T19:44:20+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0050s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 4 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2016-12-02T19:45:18+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 6 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 6 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011000s ]
+
+[ 2016-12-02T19:46:59+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022002s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 7 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012000s ]
+
+[ 2016-12-02T19:47:09+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0040s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() U:\php\phpstudy\WWW\wwh_shop\Application\Common\Common\function.php 第 30 行.
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 7 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-12-02T19:47:15+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0040s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 8 [ RunTime:0.0890s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011000s ]
+
+[ 2016-12-02T19:47:52+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0050s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 9 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 9 [ RunTime:0.0880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011001s ]
+
+[ 2016-12-02T19:49:43+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 10 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 10 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013001s ]
+
+[ 2016-12-02T19:49:59+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 11 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 11 [ RunTime:0.0100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018001s ]
+
+[ 2016-12-02T19:50:03+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 11 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() U:\php\phpstudy\WWW\wwh_shop\Application\Common\Common\function.php 第 30 行.
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 11 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-12-02T19:52:17+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 12 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 12 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011001s ]
+
+[ 2016-12-02T19:55:03+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 13 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2016-12-02T19:55:23+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 14 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 14 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011000s ]
+
+[ 2016-12-02T19:55:40+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0100s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 15 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 15 [ RunTime:0.0090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2016-12-02T19:57:42+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0040s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 16 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 16 [ RunTime:0.0880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010000s ]
+
+[ 2016-12-02T19:58:37+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0090s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 17 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 17 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014001s ]
+
+[ 2016-12-02T19:59:08+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0050s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 18 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 18 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011001s ]
+
+[ 2016-12-02T20:08:29+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0020s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 19 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 19 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013001s ]
+
+[ 2016-12-02T20:08:34+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0020s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 20 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 20 [ RunTime:0.0070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2016-12-02T20:09:30+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 21 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 21 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2016-12-02T20:11:24+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0080s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 22 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 22 [ RunTime:0.0880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2016-12-02T20:15:19+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 23 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 23 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2016-12-02T20:15:42+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0050s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 24 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 24 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2016-12-02T20:15:45+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0020s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 25 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 25 [ RunTime:0.0080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011001s ]
+
+[ 2016-12-02T20:18:11+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 26 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 26 [ RunTime:0.0880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011001s ]
+
+[ 2016-12-02T20:18:30+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0100s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 27 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 27 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2016-12-02T20:18:49+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0050s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 28 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 28 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2016-12-02T20:31:15+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0020s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 29 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 29 [ RunTime:0.0100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010000s ]
+
+[ 2016-12-02T20:31:19+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 32 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 32 [ RunTime:0.0120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2016-12-02T20:52:09+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0100s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 30 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 30 [ RunTime:0.0860s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2016-12-02T20:52:11+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 31 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 31 [ RunTime:0.0080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+
+[ 2016-12-02T20:54:59+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0050s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 33 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 33 [ RunTime:0.0880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007001s ]
+
+[ 2016-12-02T20:55:01+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0040s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 34 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 34 [ RunTime:0.0260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+
+[ 2016-12-02T20:55:03+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 35 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 35 [ RunTime:0.0070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2016-12-02T20:55:05+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 36 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 36 [ RunTime:0.0080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010000s ]
+
+[ 2016-12-02T20:56:03+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020001s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0110s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 37 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 37 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007001s ]
+
+[ 2016-12-02T20:56:07+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0050s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 38 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 38 [ RunTime:0.0080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2016-12-02T20:56:10+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0040s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 39 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 39 [ RunTime:0.0080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2016-12-02T20:59:16+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 40 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 40 [ RunTime:0.0880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016001s ]
+
+[ 2016-12-02T20:59:20+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0130s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 41 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 41 [ RunTime:0.0070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2016-12-02T20:59:22+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 42 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 42 [ RunTime:0.0160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2016-12-02T21:03:18+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 43 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 43 [ RunTime:0.0870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010000s ]
+
+[ 2016-12-02T21:03:21+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 45 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 45 [ RunTime:0.0090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014001s ]
+
+[ 2016-12-02T21:03:24+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = 44 LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 44 [ RunTime:0.0080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+
+[ 2016-12-02T21:21:15+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/picDel.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT `pic`,`big_pic`,`mid_pic`,`sm_pic` FROM `wwh_goods_pic` WHERE `pic_id` = '46' LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `wwh_goods_pic` WHERE `pic_id` = 46 [ RunTime:0.0880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+

@@ -1,0 +1,1158 @@
+[ 2016-11-30T08:17:58+08:00 ] ::1 /wwh_shop/index.php/Admin/goodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+ERR: 无法加载控制器:GoodsList
+
+[ 2016-11-30T08:18:15+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0618s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0194s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+NOTIC: [8] Undefined variable: cat_list U:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\3268fbbbd0eb3ffe30140f78ff508f86.php 第 21 行.
+NOTIC: [8] Undefined variable: brand_list U:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\3268fbbbd0eb3ffe30140f78ff508f86.php 第 26 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.108402s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.108524s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001388s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003081s ]
+
+[ 2016-11-30T08:38:19+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019569s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0165s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.187961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.188058s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.023020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.028800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.028935s ]
+
+[ 2016-11-30T08:38:26+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002706s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0587s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082355s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082539s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002388s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003728s ]
+
+[ 2016-11-30T08:38:51+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001142s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0133s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.129570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129700s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001292s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001409s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002801s ]
+
+[ 2016-11-30T08:39:26+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003556s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0488s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000320s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.264188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.264380s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002542s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002686s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012193s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012410s ]
+
+[ 2016-11-30T08:39:47+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001392s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.1131s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000180s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000331s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.190815s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.191005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002580s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002702s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004072s ]
+
+[ 2016-11-30T08:40:19+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0125s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.480941s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.481071s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001556s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001676s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009079s ]
+
+[ 2016-11-30T08:40:29+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001462s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000328s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000454s ]
+NOTIC: [8] Undefined variable: cat_list U:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php 第 45 行.
+NOTIC: [8] Undefined variable: brand_list U:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php 第 55 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.239250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.239351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001889s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001996s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003259s ]
+
+[ 2016-11-30T08:40:31+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/__GROUP__/Goods/goodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001636s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002743s ]
+ERR: 非法操作:__GROUP__
+
+[ 2016-11-30T08:40:41+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=wads&fp=asd&tp=asd&ios=1&fa=asd&ta=asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0705s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000188s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000377s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.197928s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.198109s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001589s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001785s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003134s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003401s ]
+
+[ 2016-11-30T08:43:29+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=wads&fp=asd&tp=asd&ios=1&fa=asd&ta=asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003322s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0615s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000314s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.261599s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.261854s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002258s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009614s ]
+
+[ 2016-11-30T08:43:31+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=wads&fp=asd&tp=asd&ios=1&fa=asd&ta=asd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003308s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0516s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000314s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068546s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002353s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003950s ]
+
+[ 2016-11-30T08:43:39+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=dgdf&fp=233&tp=444&ios=0&fa=aasf&ta=3232
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0772s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000145s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000273s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.186094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.186274s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001184s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002759s ]
+
+[ 2016-11-30T08:46:39+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=dgdf&fp=233&tp=444&ios=1&fa=aasf&ta=3232
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003094s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0318s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.163700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.163856s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001534s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002604s ]
+
+[ 2016-11-30T08:46:43+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=dgdf&fp=233&tp=444&ios=&fa=aasf&ta=3232
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001503s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0132s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.177757s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.177887s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002765s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003705s ]
+
+[ 2016-11-30T08:46:46+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=dgdf&fp=233&tp=444&ios=0&fa=aasf&ta=3232
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001914s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0324s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000254s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000489s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067275s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067456s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001278s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001394s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002583s ]
+
+[ 2016-11-30T08:46:51+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=dgdf&fp=233&tp=444&ios=1&fa=aasf&ta=3232
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002054s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0612s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000302s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.307187s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.307374s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001243s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001368s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002691s ]
+
+[ 2016-11-30T08:49:41+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=dgdf&fp=233&tp=444&ios=1&fa=aasf&ta=3232
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002951s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0597s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000383s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.208099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.208279s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002305s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003810s ]
+
+[ 2016-11-30T08:49:47+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=dgdf&fp=233&tp=444&ios=0&fa=aasf&ta=3232
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001415s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0111s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070160s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001048s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001587s ]
+
+[ 2016-11-30T08:49:51+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=dgdf&fp=233&tp=444&ios=&fa=aasf&ta=3232
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0133s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071532s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001489s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001614s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002838s ]
+
+[ 2016-11-30T08:50:04+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=dgdf&fp=233&tp=444&ios=0&fa=aasf&ta=3232
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0123s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072592s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001334s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003322s ]
+
+[ 2016-11-30T08:50:10+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=dgdf&fp=233&tp=444&ios=1&fa=aasf&ta=3232
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002013s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0331s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000319s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.083180s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083357s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001277s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002783s ]
+
+[ 2016-11-30T08:50:43+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=dgdf&fp=233&tp=444&ios=1&fa=aasf&ta=3232
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001958s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0324s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000319s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.230069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.230255s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001289s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002913s ]
+
+[ 2016-11-30T08:50:46+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=dgdf&fp=233&tp=444&ios=1&fa=aasf&ta=3232
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003517s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0717s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000324s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.605910s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.606150s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002638s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003696s ]
+
+[ 2016-11-30T08:54:48+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=&fp=&tp=&ios=1&fa=aasf&ta=3232
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002766s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0486s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.187322s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.187505s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001951s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003614s ]
+
+[ 2016-11-30T09:03:55+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=2&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001288s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0448s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `goods_name` LIKE '%{I(\'get.gn\')}%' AND `is_onsale` = '1' LIMIT 1   [ RunTime:0.0120s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `goods_name` LIKE '%{I(\'get.gn\')}%' AND `is_onsale` = '1' LIMIT 0,7   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.210776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.210851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001545s ]
+
+[ 2016-11-30T09:04:13+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=%E5%95%86%E5%93%81&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0612s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `goods_name` LIKE '%{I(\'get.gn\')}%' AND `is_onsale` = '1' LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `goods_name` LIKE '%{I(\'get.gn\')}%' AND `is_onsale` = '1' LIMIT 0,7   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000319s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.166818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.167007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001566s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001687s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002783s ]
+
+[ 2016-11-30T09:08:01+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=%E5%95%86%E5%93%81&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0128s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `goods_name` LIKE '%{I(\'get.gn\')}%' AND `is_onsale` = '1' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `goods_name` LIKE '%{I(\'get.gn\')}%' AND `is_onsale` = '1' LIMIT 0,7   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.173246s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.173360s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002336s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002478s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002726s ]
+
+[ 2016-11-30T09:10:04+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0165s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084068s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002554s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002688s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002960s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003169s ]
+
+[ 2016-11-30T09:11:34+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=ddd&fp=&tp=&ios=&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001175s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0152s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `goods_name` LIKE '%{I(\'get.gn\')}%' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `goods_name` LIKE '%{I(\'get.gn\')}%' LIMIT 0,7   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.176883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.177015s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002572s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002693s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003015s ]
+
+[ 2016-11-30T09:13:52+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=%E5%95%86%E5%93%81&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002753s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0244s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `goods_name` LIKE '%商品%' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `goods_name` LIKE '%商品%' LIMIT 0,7   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000243s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.083869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084037s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002748s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003681s ]
+
+[ 2016-11-30T09:13:57+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=2&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002422s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0783s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `goods_name` LIKE '%2%' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `goods_name` LIKE '%2%' LIMIT 0,7   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000328s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.168936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.169164s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001618s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002384s ]
+
+[ 2016-11-30T09:14:00+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=33&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002319s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0529s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `goods_name` LIKE '%33%' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `goods_name` LIKE '%33%' LIMIT 0,7   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.083282s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083472s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001596s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002895s ]
+
+[ 2016-11-30T09:14:03+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=33+++&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001272s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.1093s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `goods_name` LIKE '%33%' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `goods_name` LIKE '%33%' LIMIT 0,7   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072352s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072499s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001615s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001737s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002112s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002242s ]
+
+[ 2016-11-30T09:14:09+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=2+1+3&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.1282s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `goods_name` LIKE '%2 1 3%' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `goods_name` LIKE '%2 1 3%' LIMIT 0,7   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080966s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001637s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002300s ]
+
+[ 2016-11-30T09:14:16+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=++213&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002331s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0653s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `goods_name` LIKE '%213%' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `goods_name` LIKE '%213%' LIMIT 0,7   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000309s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.305951s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.306144s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001647s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001809s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002255s ]
+
+[ 2016-11-30T09:14:18+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=213&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002466s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0532s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `goods_name` LIKE '%213%' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `goods_name` LIKE '%213%' LIMIT 0,7   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000315s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.083784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083997s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001711s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002241s ]
+
+[ 2016-11-30T09:14:21+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=++3&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002244s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0316s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `goods_name` LIKE '%3%' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `goods_name` LIKE '%3%' LIMIT 0,7   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000323s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082697s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082884s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001665s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003034s ]
+
+[ 2016-11-30T09:22:05+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=++3&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003320s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0515s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `goods_name` LIKE '%3%' AND `is_onsale` = '1' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `goods_name` LIKE '%3%' AND `is_onsale` = '1' LIMIT 0,7   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.709318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.709431s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001693s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004266s ]
+
+[ 2016-11-30T09:22:09+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=++3&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003556s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0361s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `goods_name` LIKE '%3%' AND `is_onsale` = '1' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `goods_name` LIKE '%3%' AND `is_onsale` = '1' LIMIT 0,7   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.307294s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.307445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002722s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003672s ]
+
+[ 2016-11-30T09:22:15+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=&fp=&tp=&ios=&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001957s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0645s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000305s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.168984s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.169160s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001235s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002827s ]
+
+[ 2016-11-30T09:22:18+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0279s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `is_onsale` = '1' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `is_onsale` = '1' LIMIT 0,7   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.087753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087894s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001758s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001893s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002911s ]
+
+[ 2016-11-30T09:22:22+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=&fp=&tp=&ios=0&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002059s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0341s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000314s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.171156s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.171331s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001317s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002726s ]
+
+[ 2016-11-30T09:23:01+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=&fp=&tp=&ios=0&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002517s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0401s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `is_onsale` = '0' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `is_onsale` = '0' LIMIT 0,7   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000312s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.184714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.184961s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001785s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001942s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002157s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002288s ]
+
+[ 2016-11-30T09:23:05+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=&fp=&tp=&ios=0&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002420s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0759s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `is_onsale` = '0' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `is_onsale` = '0' LIMIT 0,7   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000325s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082026s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082257s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001599s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001720s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002435s ]
+
+[ 2016-11-30T09:23:07+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=&fp=&tp=&ios=1&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002753s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0343s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` WHERE `is_onsale` = '1' LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `wwh_goods` WHERE `is_onsale` = '1' LIMIT 0,7   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000313s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084880s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.085044s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001669s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001793s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002447s ]
+
+[ 2016-11-30T09:23:10+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=&fp=&tp=&ios=&fa=&ta=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001939s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0327s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `wwh_goods` LIMIT 0,7   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000230s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000404s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001388s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001511s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002768s ]
+
+[ 2016-11-30T10:48:49+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?gn=&fp=&tp=&ios=0&fa=&ta=&paixu=at_asc
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'adc LIMIT 0,7' at line 1
+
+[ 2016-11-30T11:03:27+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsEdit/goods_id/17.html
+ERR: 非法操作:goodsEdit
+
+[ 2016-11-30T13:30:48+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsEdit/goods_id/18.html
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '18' for key 'PRIMARY'
+
+[ 2016-11-30T13:31:27+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsEdit/goods_id/18.html
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '18' for key 'PRIMARY'
+
+[ 2016-11-30T17:01:16+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd.html
+ERR: XML标签语法错误
+
+[ 2016-11-30T17:34:52+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/UploadsGoods/2016-11-29/sm_583d7b9c880bc.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:34:53+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/UploadsGoods/2016-11-29/sm_583d7b4ccacdc.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:34:53+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/UploadsGoods/2016-11-29/sm_583d7adda462e.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:34:53+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/UploadsGoods/2016-11-29/sm_583d7b0d284b3.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:34:53+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/Uploads'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:34:53+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/UploadsGoods/2016-11-29/sm_583d7b2cc9615.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:34:53+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/UploadsGoods/2016-11-29/sm_583d7bc3aa0a3.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:37:57+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/UploadsGoods/2016-11-29/sm_583d7b2cc9615.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:37:57+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/UploadsGoods/2016-11-29/sm_583d7b9c880bc.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:37:57+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/UploadsGoods/2016-11-29/sm_583d7b4ccacdc.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:37:57+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/UploadsGoods/2016-11-29/sm_583d7b0d284b3.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:37:57+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/Uploads'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:37:57+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/UploadsGoods/2016-11-29/sm_583d7adda462e.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:37:57+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/UploadsGoods/2016-11-29/sm_583d7bc3aa0a3.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:38:26+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/Uploads/Goods/2016-11-29/sm_583d7bc3aa0a3.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:38:26+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/Uploads/Goods/2016-11-29/sm_583d7b0d284b3.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:38:26+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/Uploads/'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:38:26+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/Uploads/Goods/2016-11-29/sm_583d7b9c880bc.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:38:26+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/Uploads/Goods/2016-11-29/sm_583d7adda462e.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:38:26+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/Uploads/Goods/2016-11-29/sm_583d7b2cc9615.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T17:38:26+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/%3Cimg%20%20%20src='/wwh_shop/Public/Uploads/Goods/2016-11-29/sm_583d7b4ccacdc.jpg'%20/%3E
+ERR: 非法操作:
+
+[ 2016-11-30T22:20:04+08:00 ] ::1 /wwh_shop/index.php/Admin/Brand/index
+ERR: 非法操作:index
+

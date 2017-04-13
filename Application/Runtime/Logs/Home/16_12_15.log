@@ -1,0 +1,9 @@
+[ 2016-12-15T10:00:30+08:00 ] ::1 /wwh_shop/index.php/Home/Index/goods
+ERR: Think\Model:getNav方法不存在！
+
+[ 2016-12-15T10:03:02+08:00 ] ::1 /wwh_shop/index.php/Home/Index/goods
+ERR: Think\Model:getNav方法不存在！
+
+[ 2016-12-15T10:03:05+08:00 ] ::1 /wwh_shop/index.php/Home/Index/goods
+ERR: Think\Model:getNav方法不存在！
+

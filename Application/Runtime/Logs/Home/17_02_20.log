@@ -1,0 +1,20 @@
+[ 2017-02-20T09:57:01+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [2048] Declaration of Home\Model\CartModel::add() should be compatible with that of Think\Model::add() F:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-20T09:57:02+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_before_delete() should be compatible with that of Think\Model::_before_delete() F:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

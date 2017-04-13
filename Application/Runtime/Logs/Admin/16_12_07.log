@@ -1,0 +1,248 @@
+[ 2016-12-07T17:50:56+08:00 ] ::1 /wwh_shop/index.php/Admin/Type/list
+ERR: 非法操作:list
+
+[ 2016-12-07T17:51:21+08:00 ] ::1 /wwh_shop/index.php/Admin/Attribute/lst/type_id/1.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wwh_shop.wwh_attr_type' doesn't exist
+
+[ 2016-12-07T17:52:34+08:00 ] ::1 /wwh_shop/index.php/Admin/Attribute/add.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wwh_shop.wwh_attr_type' doesn't exist
+
+[ 2016-12-07T22:34:35+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-12-07T22:34:38+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000761s ]
+
+[ 2016-12-07T22:38:08+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0299s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000678s ]
+
+[ 2016-12-07T22:45:31+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000695s ]
+
+[ 2016-12-07T23:01:41+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-12-07T23:02:06+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '2'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2016-12-07T23:02:09+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0167s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-12-07T23:02:40+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-12-07T23:03:48+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000643s ]
+
+[ 2016-12-07T23:04:24+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000585s ]
+
+[ 2016-12-07T23:06:02+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000626s ]
+
+[ 2016-12-07T23:06:17+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd.html
+ERR: 模板不存在:./Application/Admin/View/Goods/goodsAdd.html
+
+[ 2016-12-07T23:06:36+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001147s ]
+
+[ 2016-12-07T23:06:38+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001114s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '2'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000677s ]
+
+[ 2016-12-07T23:06:42+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000747s ]
+
+[ 2016-12-07T23:09:02+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-12-07T23:11:48+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-12-07T23:12:35+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2016-12-07T23:12:55+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000568s ]
+
+[ 2016-12-07T23:17:46+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000557s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000617s ]
+
+[ 2016-12-07T23:26:46+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-12-07T23:30:02+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000626s ]
+
+[ 2016-12-07T23:31:55+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2016-12-07T23:39:15+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-12-07T23:40:40+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+

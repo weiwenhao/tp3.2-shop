@@ -1,0 +1,27 @@
+[ 2016-12-18T11:53:53+08:00 ] ::1 /wwh_shop/
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_price' in 'field list'
+
+[ 2016-12-18T17:49:33+08:00 ] ::1 /wwh_shop/
+ERR: Think\Model:getCatIds方法不存在！
+
+[ 2016-12-18T17:56:09+08:00 ] ::1 /wwh_shop/
+ERR: Think\Model:getCateds方法不存在！
+
+[ 2016-12-18T19:19:24+08:00 ] ::1 /wwh_shop/
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_id' in 'field list'
+
+[ 2016-12-18T19:20:09+08:00 ] ::1 /wwh_shop/
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sort' in 'order clause'
+
+[ 2016-12-18T19:44:51+08:00 ] ::1 /wwh_shop/
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'brand_id' in field list is ambiguous
+
+[ 2016-12-18T19:46:20+08:00 ] ::1 /wwh_shop/
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.brand_logo' in 'field list'
+
+[ 2016-12-18T22:04:39+08:00 ] ::1 /wwh_shop/
+ERR: _STORAGE_WRITE_ERROR_:./Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php
+
+[ 2016-12-18T22:10:54+08:00 ] ::1 /wwh_shop/
+ERR: _STORAGE_WRITE_ERROR_:./Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php
+

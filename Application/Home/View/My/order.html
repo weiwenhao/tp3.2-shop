@@ -1,0 +1,84 @@
+<layout name="Common/layout"/>
+<link rel="stylesheet" href="__PUBLIC__/Home/style/home.css" type="text/css">
+<link rel="stylesheet" href="__PUBLIC__/Home/style/order.css" type="text/css">
+<script type="text/javascript" src="__PUBLIC__/Home/js/home.js"></script>
+<include file="Common/topnav"/>
+<!-- 页面主体 start -->
+<div class="main w1210 bc mt10">
+	<div class="crumb w1210">
+		<h2><strong>我的XX </strong><span>> 我的订单</span></h2>
+	</div>
+
+	<!-- 左侧导航菜单 start -->
+	<include file="menu"/>
+	<!-- 左侧导航菜单 end -->
+
+	<!-- 右侧内容区域 start -->
+	<div class="content fl ml10">
+		<div class="order_hd">
+			<h3>我的订单</h3>
+			<dl>
+				<dt>便利提醒：</dt>
+				<dd>待付款（<?php echo $noPayCount;?>）</dd>
+			</dl>
+
+			<dl>
+				<dt>特色服务：</dt>
+				<dd><a href="">我的预约</a></dd>
+				<dd><a href="">夺宝箱</a></dd>
+			</dl>
+		</div>
+
+		<div class="order_bd mt10">
+			<table class="orders">
+				<thead>
+				<tr>
+					<th width="10%">订单号</th>
+					<th width="20%">订单商品</th>
+					<th width="10%">收货人</th>
+					<th width="20%">订单金额</th>
+					<th width="20%">下单时间</th>
+					<th width="10%">订单状态</th>
+					<th width="10%">操作</th>
+				</tr>
+				</thead>
+				<tbody>
+				<?php foreach ($data as $k=>$v):?>
+				<tr>
+					<td><a href=""><?php echo $v['order_id'];?></a></td>
+					<td><a href="">
+							<?php foreach (explode(',',$v['sm_goods_img']) as $k1 => $v1){
+								showImage($v1);
+							}?>
+						</a>
+					</td>
+					<td><?php echo $v['shr_name'];?></td>
+					<td>￥<?php echo $v['total_price'];?></td>
+					<td><?php echo date('Y-m-d H:i:s',$v['add_time']);?></td>
+					<td><?php if($v['pay_status'] == '是'){ echo '已支付';}else{echo '未付款|<a href="<?php echo U(\'Order/alipay\');?>">去支付</a>';}?></td>
+<!--					| <a href="--><?php //echo U('Order/alipay');?><!--">去支付</a>-->
+					<td><a href="">查看</a>
+						<?php if($v['pay_status'] == '否'){?>
+							| <a href="">取消订单</a>
+						<?php }else{?>
+							| <a href="">退款</a>
+						<?php }?>
+					</td>
+				</tr>
+				<?php endforeach;?>
+
+					<tr>
+						<td colspan="7"><?php echo $page;?></td>
+					</tr>
+
+				</tbody>
+			</table>
+		</div>
+	</div>
+	<!-- 右侧内容区域 end -->
+</div>
+<!-- 页面主体 end-->
+
+<div style="clear:both;"></div>
+
+<include file="Common/bottomnav"/>

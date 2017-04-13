@@ -1,0 +1,642 @@
+[ 2016-11-28T22:27:58+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T22:28:50+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[42000] [1049] Unknown database 'wwh_shop'
+
+[ 2016-11-28T22:31:15+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] PDO::__construct() [<a href='pdo.--construct'>pdo.--construct</a>]: [2002] ”…”⁄¡¨Ω”∑Ω‘⁄“ª∂Œ ±º‰∫Û√ª”–’˝»∑¥∏¥ªÚ¡¨Ω”µƒ÷˜ª˙√ª”–∑¥”¶£¨¡¨Ω”≥¢ ‘ ß∞‹°£
+ (trying to connect via tcp://192.168.1.108:3306) E:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Db\Driver.class.php Á¨¨ 103 Ë°å.
+ERR: SQLSTATE[HY000] [2002] ”…”⁄¡¨Ω”∑Ω‘⁄“ª∂Œ ±º‰∫Û√ª”–’˝»∑¥∏¥ªÚ¡¨Ω”µƒ÷˜ª˙√ª”–∑¥”¶£¨¡¨Ω”≥¢ ‘ ß∞‹°£
+
+
+[ 2016-11-28T22:42:26+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0330s ]
+NOTIC: [2] require_once(./HtmlPurifier/HTMLPurifier.auto.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory E:\php\phpstudy\WWW\wwh_shop\Application\Common\Common\function.php Á¨¨ 4 Ë°å.
+
+[ 2016-11-28T23:14:31+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-28T23:15:02+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.2270s ]
+SQL: INSERT INTO `wwh_goods` (`goods_name`,`shop_price`,`market_price`,`goods_desc`,`addtime`) VALUES ('sddddddd','233','0',NULL,'2016-11-28 23:15:02') [ RunTime:0.2780s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T23:15:05+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: ÈùûÊ≥ïÊìç‰Ωú:goodsList
+
+[ 2016-11-28T23:18:17+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-28T23:18:18+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T23:18:27+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0460s ]
+SQL: INSERT INTO `wwh_goods` (`goods_name`,`shop_price`,`market_price`,`goods_desc`,`addtime`) VALUES ('dddf','233','0','&lt;p&gt;dsfffffffffffffffffffffffff&lt;/p&gt;','2016-11-28 23:18:27') [ RunTime:0.0200s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T23:18:31+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: ÈùûÊ≥ïÊìç‰Ωú:goodsList
+
+[ 2016-11-28T23:18:52+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T23:18:53+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-28T23:19:27+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0330s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Upload.class.php Á¨¨ 170 Ë°å.
+SQL: INSERT INTO `wwh_goods` (`goods_name`,`shop_price`,`market_price`,`goods_desc`,`goods_img`,`sm_goods_img`,`mid_goods_img`,`big_goods_img`,`mbig_goods_img`,`addtime`) VALUES ('1sd ','332','0','&lt;p&gt;&amp;lt;script&amp;gt;alert(&amp;#39;2333&amp;#39;);&amp;lt;/script&amp;gt;&lt;/p&gt;','Goods/2016-11-28/583c4aff3efb2.jpg','Goods/2016-11-28/sm_583c4aff3efb2.jpg','Goods/2016-11-28/mid_583c4aff3efb2.jpg','Goods/2016-11-28/big_583c4aff3efb2.jpg','Goods/2016-11-28/mbig_583c4aff3efb2.jpg','2016-11-28 23:19:27') [ RunTime:0.0230s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T23:19:30+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: ÈùûÊ≥ïÊìç‰Ωú:goodsList
+
+[ 2016-11-28T23:19:32+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T23:19:33+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-28T23:20:39+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T23:20:39+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T23:21:12+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0330s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Upload.class.php Á¨¨ 170 Ë°å.
+SQL: INSERT INTO `wwh_goods` (`goods_name`,`shop_price`,`market_price`,`goods_desc`,`goods_img`,`sm_goods_img`,`mid_goods_img`,`big_goods_img`,`mbig_goods_img`,`addtime`) VALUES ('233','656','0',NULL,'Goods/2016-11-28/583c4b67a062d.jpg','Goods/2016-11-28/sm_583c4b67a062d.jpg','Goods/2016-11-28/mid_583c4b67a062d.jpg','Goods/2016-11-28/big_583c4b67a062d.jpg','Goods/2016-11-28/mbig_583c4b67a062d.jpg','2016-11-28 23:21:12') [ RunTime:0.0320s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T23:21:15+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: ÈùûÊ≥ïÊìç‰Ωú:goodsList
+
+[ 2016-11-28T23:25:04+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-11-28T23:25:06+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0030s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Upload.class.php Á¨¨ 170 Ë°å.
+SQL: INSERT INTO `wwh_goods` (`goods_name`,`shop_price`,`market_price`,`goods_desc`,`goods_img`,`sm_goods_img`,`mid_goods_img`,`big_goods_img`,`mbig_goods_img`,`addtime`) VALUES ('233','656','0',NULL,'Goods/2016-11-28/583c4c521ce4f.jpg','Goods/2016-11-28/sm_583c4c521ce4f.jpg','Goods/2016-11-28/mid_583c4c521ce4f.jpg','Goods/2016-11-28/big_583c4c521ce4f.jpg','Goods/2016-11-28/mbig_583c4c521ce4f.jpg','2016-11-28 23:25:06') [ RunTime:0.0300s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-28T23:25:10+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: ÈùûÊ≥ïÊìç‰Ωú:goodsList
+
+[ 2016-11-28T23:25:15+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-28T23:25:16+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T23:25:31+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0030s ]
+SQL: INSERT INTO `wwh_goods` (`goods_name`,`shop_price`,`market_price`,`goods_desc`,`addtime`) VALUES ('3esf','233','0',NULL,'2016-11-28 23:25:30') [ RunTime:0.0910s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T23:25:34+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: ÈùûÊ≥ïÊìç‰Ωú:goodsList
+
+[ 2016-11-28T23:26:58+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-28T23:26:58+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-28T23:27:51+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-28T23:27:55+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-28T23:28:03+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0050s ]
+SQL: INSERT INTO `wwh_goods` (`goods_name`,`shop_price`,`market_price`,`goods_desc`,`addtime`) VALUES ('233','34','0','<p><span style=\"color:#000000;\">rereeeee</span><span style=\"color:#1f497d;\">eeeeeeee</span></p><span style=\"color:#7a7267;background-color:#2b2a27;\">//</span><span style=\"color:#7a7267;background-color:#2b2a27;font-family:\'ÂÆã‰Ωì\';\">ÂØπ</span><span style=\"color:#7a7267;background-color:#2b2a27;\">goods_desc</span><span style=\"color:#7a7267;background-color:#2b2a27;font-family:\'ÂÆã‰Ωì\';\">‰∏≠ÁöÑÊï∞ÊçÆËøõË°åËøáÊª§<br /></span><span style=\"color:#bf63a3;background-color:#2b2a27;\">$data</span><span style=\"color:#26a6a6;background-color:#2b2a27;\">[</span><span style=\"color:#bcd42a;background-color:#2b2a27;\">\'goods_desc\'</span><span style=\"color:#26a6a6;background-color:#2b2a27;\">] = removeXSS(</span><span style=\"background-color:#2b2a27;\">$_POST</span><span style=\"color:#26a6a6;background-color:#2b2a27;\">[</span><span style=\"color:#bcd42a;background-color:#2b2a27;\">\'goods_desc\'</span><span style=\"color:#26a6a6;background-color:#2b2a27;\">]);</span><p>sd ds</p><p>&lt;script&gt;alert(\'ssss\');&lt;/script&gt;</p>','2016-11-28 23:28:03') [ RunTime:0.0110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-28T23:28:06+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: ÈùûÊ≥ïÊìç‰Ωú:goodsList
+
+[ 2016-11-28T23:45:07+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cat_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 45 Ë°å.
+NOTIC: [8] Undefined variable: brand_list E:\php\phpstudy\WWW\wwh_shop\Application\Runtime\Cache\Admin\0625ccdd984322e27e52787535bec737.php Á¨¨ 55 Ë°å.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-28T23:45:22+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0030s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Upload.class.php Á¨¨ 170 Ë°å.
+SQL: INSERT INTO `wwh_goods` (`goods_name`,`shop_price`,`market_price`,`goods_desc`,`goods_img`,`sm_goods_img`,`mid_goods_img`,`big_goods_img`,`mbig_goods_img`,`addtime`) VALUES ('haha','233','0','<p>saaaaaaaaaaaaaaaaaaaaa</p>','Goods/2016-11-28/583c51122af35.jpg','Goods/2016-11-28/sm_583c51122af35.jpg','Goods/2016-11-28/mid_583c51122af35.jpg','Goods/2016-11-28/big_583c51122af35.jpg','Goods/2016-11-28/mbig_583c51122af35.jpg','2016-11-28 23:45:22') [ RunTime:0.0140s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+

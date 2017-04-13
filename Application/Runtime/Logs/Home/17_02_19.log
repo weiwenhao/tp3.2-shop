@@ -1,0 +1,742 @@
+[ 2017-02-19T18:16:11+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-02-19T18:16:12+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-02-19T18:16:20+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-02-19T18:16:20+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-02-19T18:16:30+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-02-19T18:16:30+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0251s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-02-19T18:16:38+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-02-19T18:16:38+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2017-02-19T18:16:47+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-02-19T18:16:47+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000620s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2017-02-19T18:16:53+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-02-19T18:16:53+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-02-19T18:16:57+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-02-19T18:16:57+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-02-19T18:17:08+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-02-19T18:17:08+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxHistory/goods_id/91.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0108s ]
+SQL: SELECT `goods_id`,`goods_name`,`sm_goods_img` FROM `wwh_goods` WHERE `goods_id` IN ('91') ORDER BY FIELD(goods_id,91) LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-02-19T18:17:08+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxPrice/goods_id/91.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0032s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0051s ]
+SQL: SHOW COLUMNS FROM `wwh_member_price` [ RunTime:0.0136s ]
+SQL: SELECT `member_price` FROM `wwh_member_price` WHERE `goods_id` = '91' AND `level_id` = null LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0175s ]
+SQL: SELECT `shop_price`,`promote_start_date`,`promote_end_date`,`promote_price` FROM `wwh_goods` WHERE `goods_id` = '91' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-02-19T18:17:08+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Comment/ajaxPage/goods_id/91/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+SQL: SHOW COLUMNS FROM `wwh_comment` [ RunTime:0.0164s ]
+SQL: SELECT `level` FROM `wwh_comment` WHERE `goods_id` = 91  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wwh_trait` [ RunTime:0.0159s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php on line 94 and defined U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1720 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1721 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1731 行.
+SQL: SELECT * FROM `wwh_trait` WHERE `goods_id` = 91  [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_comment` WHERE `goods_id` = 91 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT a.*,b.member_id,b.member_name,b.face,count(c.reply_id) reply_count FROM wwh_comment a LEFT JOIN wwh_member b ON a.member_id=b.member_id LEFT JOIN wwh_reply c ON a.comment_id=c.comment_id  WHERE a.goods_id = '91' GROUP BY a.comment_id ORDER BY a.comment_id desc LIMIT 0,5   [ RunTime:0.0257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-02-19T18:17:08+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-02-19T18:17:14+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-02-19T18:17:14+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-02-19T18:17:21+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-02-19T18:17:21+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxHistory/goods_id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0033s ]
+SQL: SELECT `goods_id`,`goods_name`,`sm_goods_img` FROM `wwh_goods` WHERE `goods_id` IN ('19','91') ORDER BY FIELD(goods_id,19,91) LIMIT 6   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-02-19T18:17:21+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxPrice/goods_id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `wwh_member_price` [ RunTime:0.0031s ]
+SQL: SELECT `member_price` FROM `wwh_member_price` WHERE `goods_id` = '19' AND `level_id` = null LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0033s ]
+SQL: SELECT `shop_price`,`promote_start_date`,`promote_end_date`,`promote_price` FROM `wwh_goods` WHERE `goods_id` = '19' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000972s ]
+
+[ 2017-02-19T18:17:21+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Comment/ajaxPage/goods_id/19/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+SQL: SHOW COLUMNS FROM `wwh_comment` [ RunTime:0.0031s ]
+SQL: SELECT `level` FROM `wwh_comment` WHERE `goods_id` = 19  [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 90 行.
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 91 行.
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 92 行.
+SQL: SHOW COLUMNS FROM `wwh_trait` [ RunTime:0.0029s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php on line 94 and defined U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1720 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1721 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1731 行.
+SQL: SELECT * FROM `wwh_trait` WHERE `goods_id` = 19  [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_comment` WHERE `goods_id` = 19 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT a.*,b.member_id,b.member_name,b.face,count(c.reply_id) reply_count FROM wwh_comment a LEFT JOIN wwh_member b ON a.member_id=b.member_id LEFT JOIN wwh_reply c ON a.comment_id=c.comment_id  WHERE a.goods_id = '19' GROUP BY a.comment_id ORDER BY a.comment_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000426s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-02-19T18:17:21+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-02-19T18:17:22+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2017-02-19T18:17:22+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxHistory/goods_id/91.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0094s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0038s ]
+SQL: SELECT `goods_id`,`goods_name`,`sm_goods_img` FROM `wwh_goods` WHERE `goods_id` IN ('91','19') ORDER BY FIELD(goods_id,91,19) LIMIT 6   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-02-19T18:17:22+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxPrice/goods_id/91.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0036s ]
+SQL: SHOW COLUMNS FROM `wwh_member_price` [ RunTime:0.0027s ]
+SQL: SELECT `member_price` FROM `wwh_member_price` WHERE `goods_id` = '91' AND `level_id` = null LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0031s ]
+SQL: SELECT `shop_price`,`promote_start_date`,`promote_end_date`,`promote_price` FROM `wwh_goods` WHERE `goods_id` = '91' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-02-19T18:17:22+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Comment/ajaxPage/goods_id/91/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `wwh_comment` [ RunTime:0.0032s ]
+SQL: SELECT `level` FROM `wwh_comment` WHERE `goods_id` = 91  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wwh_trait` [ RunTime:0.0031s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php on line 94 and defined U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1720 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1721 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1731 行.
+SQL: SELECT * FROM `wwh_trait` WHERE `goods_id` = 91  [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_comment` WHERE `goods_id` = 91 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT a.*,b.member_id,b.member_name,b.face,count(c.reply_id) reply_count FROM wwh_comment a LEFT JOIN wwh_member b ON a.member_id=b.member_id LEFT JOIN wwh_reply c ON a.comment_id=c.comment_id  WHERE a.goods_id = '91' GROUP BY a.comment_id ORDER BY a.comment_id desc LIMIT 0,5   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-02-19T18:17:22+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-02-19T18:17:32+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-02-19T18:17:32+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxHistory/goods_id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0033s ]
+SQL: SELECT `goods_id`,`goods_name`,`sm_goods_img` FROM `wwh_goods` WHERE `goods_id` IN ('19','91') ORDER BY FIELD(goods_id,19,91) LIMIT 6   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-02-19T18:17:32+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxPrice/goods_id/19.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `wwh_member_price` [ RunTime:0.0027s ]
+SQL: SELECT `member_price` FROM `wwh_member_price` WHERE `goods_id` = '19' AND `level_id` = null LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0032s ]
+SQL: SELECT `shop_price`,`promote_start_date`,`promote_end_date`,`promote_price` FROM `wwh_goods` WHERE `goods_id` = '19' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-02-19T18:17:32+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Comment/ajaxPage/goods_id/19/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `wwh_comment` [ RunTime:0.0031s ]
+SQL: SELECT `level` FROM `wwh_comment` WHERE `goods_id` = 19  [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 90 行.
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 91 行.
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 92 行.
+SQL: SHOW COLUMNS FROM `wwh_trait` [ RunTime:0.0030s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php on line 94 and defined U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1720 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1721 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1731 行.
+SQL: SELECT * FROM `wwh_trait` WHERE `goods_id` = 19  [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_comment` WHERE `goods_id` = 19 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT a.*,b.member_id,b.member_name,b.face,count(c.reply_id) reply_count FROM wwh_comment a LEFT JOIN wwh_member b ON a.member_id=b.member_id LEFT JOIN wwh_reply c ON a.comment_id=c.comment_id  WHERE a.goods_id = '19' GROUP BY a.comment_id ORDER BY a.comment_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-19T18:17:32+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-02-19T18:17:34+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-02-19T18:17:34+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxHistory.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0035s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 6' at line 1
+
+[ 2017-02-19T18:17:34+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxPrice.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `wwh_member_price` [ RunTime:0.0032s ]
+SQL: SELECT `member_price` FROM `wwh_member_price` WHERE `goods_id` = '' AND `level_id` = null LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0032s ]
+SQL: SELECT `shop_price`,`promote_start_date`,`promote_end_date`,`promote_price` FROM `wwh_goods` WHERE `goods_id` = '' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-02-19T18:17:34+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Comment/ajaxPage/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+SQL: SHOW COLUMNS FROM `wwh_comment` [ RunTime:0.0032s ]
+SQL: SELECT `level` FROM `wwh_comment` WHERE `goods_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 90 行.
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 91 行.
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 92 行.
+SQL: SHOW COLUMNS FROM `wwh_trait` [ RunTime:0.0029s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php on line 94 and defined U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1720 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1721 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1731 行.
+SQL: SELECT * FROM `wwh_trait` WHERE `goods_id` = 0  [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_comment` WHERE `goods_id` = 0 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT a.*,b.member_id,b.member_name,b.face,count(c.reply_id) reply_count FROM wwh_comment a LEFT JOIN wwh_member b ON a.member_id=b.member_id LEFT JOIN wwh_reply c ON a.comment_id=c.comment_id  WHERE a.goods_id = '' GROUP BY a.comment_id ORDER BY a.comment_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-02-19T18:17:34+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-02-19T18:17:39+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-02-19T18:17:39+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-02-19T18:17:44+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000600s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000486s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-02-19T18:17:44+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxHistory/goods_id/18.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0050s ]
+SQL: SELECT `goods_id`,`goods_name`,`sm_goods_img` FROM `wwh_goods` WHERE `goods_id` IN ('18','19','91') ORDER BY FIELD(goods_id,18,19,91) LIMIT 6   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000532s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2017-02-19T18:17:44+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxPrice/goods_id/18.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `wwh_member_price` [ RunTime:0.0030s ]
+SQL: SELECT `member_price` FROM `wwh_member_price` WHERE `goods_id` = '18' AND `level_id` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0039s ]
+SQL: SELECT `shop_price`,`promote_start_date`,`promote_end_date`,`promote_price` FROM `wwh_goods` WHERE `goods_id` = '18' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2017-02-19T18:17:44+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Comment/ajaxPage/goods_id/18/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+SQL: SHOW COLUMNS FROM `wwh_comment` [ RunTime:0.0033s ]
+SQL: SELECT `level` FROM `wwh_comment` WHERE `goods_id` = 18  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wwh_trait` [ RunTime:0.0029s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php on line 94 and defined U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1720 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1721 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1731 行.
+SQL: SELECT * FROM `wwh_trait` WHERE `goods_id` = 18  [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_comment` WHERE `goods_id` = 18 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT a.*,b.member_id,b.member_name,b.face,count(c.reply_id) reply_count FROM wwh_comment a LEFT JOIN wwh_member b ON a.member_id=b.member_id LEFT JOIN wwh_reply c ON a.comment_id=c.comment_id  WHERE a.goods_id = '18' GROUP BY a.comment_id ORDER BY a.comment_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-02-19T18:17:44+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-02-19T18:17:46+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-02-19T18:17:46+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-02-19T18:17:53+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-02-19T18:17:53+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-02-19T18:17:53+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Comment/ajaxPage/goods_id/88/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+SQL: SHOW COLUMNS FROM `wwh_comment` [ RunTime:0.0034s ]
+SQL: SELECT `level` FROM `wwh_comment` WHERE `goods_id` = 88  [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 90 行.
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 91 行.
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 92 行.
+SQL: SHOW COLUMNS FROM `wwh_trait` [ RunTime:0.0030s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php on line 94 and defined U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1720 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1721 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1731 行.
+SQL: SELECT * FROM `wwh_trait` WHERE `goods_id` = 88  [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_comment` WHERE `goods_id` = 88 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT a.*,b.member_id,b.member_name,b.face,count(c.reply_id) reply_count FROM wwh_comment a LEFT JOIN wwh_member b ON a.member_id=b.member_id LEFT JOIN wwh_reply c ON a.comment_id=c.comment_id  WHERE a.goods_id = '88' GROUP BY a.comment_id ORDER BY a.comment_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000426s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-02-19T18:17:53+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxPrice/goods_id/88.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0048s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0052s ]
+SQL: SHOW COLUMNS FROM `wwh_member_price` [ RunTime:0.0042s ]
+SQL: SELECT `member_price` FROM `wwh_member_price` WHERE `goods_id` = '88' AND `level_id` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0051s ]
+SQL: SELECT `shop_price`,`promote_start_date`,`promote_end_date`,`promote_price` FROM `wwh_goods` WHERE `goods_id` = '88' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000693s ]
+
+[ 2017-02-19T18:17:53+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxHistory/goods_id/88.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000982s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0038s ]
+SQL: SELECT `goods_id`,`goods_name`,`sm_goods_img` FROM `wwh_goods` WHERE `goods_id` IN ('88','18','19','91') ORDER BY FIELD(goods_id,88,18,19,91) LIMIT 6   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-02-19T18:17:59+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0032s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0033s ]
+SQL: SELECT `goods_id`,`goods_name`,`sm_goods_img` FROM `wwh_goods` WHERE `goods_id` = 88 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_attr` [ RunTime:0.0029s ]
+SQL: SELECT b.attr_name,a.attr_value FROM wwh_goods_attr a LEFT JOIN wwh_attribute b ON a.attr_id=b.attr_id  WHERE a.goods_attr_id IN ('9','12')  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `wwh_member_price` [ RunTime:0.0027s ]
+SQL: SELECT `member_price` FROM `wwh_member_price` WHERE `goods_id` = '88' AND `level_id` = null LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `shop_price`,`promote_start_date`,`promote_end_date`,`promote_price` FROM `wwh_goods` WHERE `goods_id` = '88' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-02-19T18:17:59+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxHistory/goods_id/88.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0034s ]
+SQL: SELECT `goods_id`,`goods_name`,`sm_goods_img` FROM `wwh_goods` WHERE `goods_id` IN ('88','18','19','91') ORDER BY FIELD(goods_id,88,18,19,91) LIMIT 6   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2017-02-19T18:17:59+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxPrice/goods_id/88.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `wwh_member_price` [ RunTime:0.0027s ]
+SQL: SELECT `member_price` FROM `wwh_member_price` WHERE `goods_id` = '88' AND `level_id` = null LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0032s ]
+SQL: SELECT `shop_price`,`promote_start_date`,`promote_end_date`,`promote_price` FROM `wwh_goods` WHERE `goods_id` = '88' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-02-19T18:17:59+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Comment/ajaxPage/goods_id/88/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+SQL: SHOW COLUMNS FROM `wwh_comment` [ RunTime:0.0031s ]
+SQL: SELECT `level` FROM `wwh_comment` WHERE `goods_id` = 88  [ RunTime:0.0003s ]
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 90 行.
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 91 行.
+NOTIC: [2] Division by zero U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php 第 92 行.
+SQL: SHOW COLUMNS FROM `wwh_trait` [ RunTime:0.0030s ]
+NOTIC: [2] Missing argument 1 for Think\Model::field(), called in U:\php\phpstudy\WWW\wwh_shop\Application\Home\Model\CommentModel.class.php on line 94 and defined U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1720 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1721 行.
+NOTIC: [8] Undefined variable: field U:\php\phpstudy\WWW\wwh_shop\ThinkPHP\Library\Think\Model.class.php 第 1731 行.
+SQL: SELECT * FROM `wwh_trait` WHERE `goods_id` = 88  [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_comment` WHERE `goods_id` = 88 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT a.*,b.member_id,b.member_name,b.face,count(c.reply_id) reply_count FROM wwh_comment a LEFT JOIN wwh_member b ON a.member_id=b.member_id LEFT JOIN wwh_reply c ON a.comment_id=c.comment_id  WHERE a.goods_id = '88' GROUP BY a.comment_id ORDER BY a.comment_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-02-19T18:17:59+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-02-19T18:18:03+08:00 ] 127.0.0.1 /wwh_shop/index.php/Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) U:\php\phpstudy\WWW\wwh_shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+

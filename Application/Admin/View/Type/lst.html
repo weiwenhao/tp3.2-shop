@@ -1,0 +1,42 @@
+<layout name="layout" />
+
+<!-- 搜索 -->
+<div class="form-div search_form_div">
+    <form action="__ACTION__" method="GET" name="search_form">
+		<p>
+			类型名称：
+	   		<input type="text" name="type_name" size="30" value="<?php echo I('get.type_name'); ?>" />
+		</p>
+		<p><input type="submit" value=" 搜索 " class="button" /></p>
+    </form>
+</div>
+<!-- 列表 -->
+<div class="list-div" id="listDiv">
+	<table cellpadding="3" cellspacing="1">
+    	<tr>
+            <th >类型id</th>
+            <th >类型名称</th>
+			<th width="120">操作</th>
+        </tr>
+		<?php foreach ($data as $k => $v): ?>            
+			<tr class="tron">
+				<td><?php echo $v['type_id']; ?></td>
+				<td><?php echo $v['type_name']; ?></td>
+		        <td align="center">
+		        	<a href="<?php echo U('Attribute/lst?type_id='.$v['type_id']); ?>" title="编辑">属性列表</a> |
+		        	<a href="<?php echo U('edit?type_id='.$v['type_id'].'&p='.I('get.p')); ?>" title="编辑">编辑</a> |
+	                <a href="<?php echo U('delete?type_id='.$v['type_id'].'&p='.I('get.p')); ?>" onclick="return confirm('确定要删除吗？');" title="移除">移除</a>
+		        </td>
+	        </tr>
+        <?php endforeach; ?> 
+		<?php if(preg_match('/\d/', $page)): ?>  
+        </table>
+        <table id="page-table"><tr><td align="right" nowrap="true" colspan="99" height="30"><?php echo $page; ?></td></tr> 
+        <?php endif; ?> 
+	</table>
+</div>
+
+<script>
+</script>
+<script type="text/javascript" src="__PUBLIC__/umeditor1_2_2-utf8-php/third-party/jquery.min.js"></script>
+<script src="__PUBLIC__/Admin/Js/tron.js"></script>

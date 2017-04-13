@@ -1,0 +1,97 @@
+[ 2016-12-27T20:11:40+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+SQL: SHOW COLUMNS FROM `wwh_authority` [ RunTime:0.0410s ]
+SQL: SHOW COLUMNS FROM `wwh_admin_role` [ RunTime:0.0720s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wwh_admin_role a INNER JOIN wwh_role_auth b ON a.role_id=b.role_id INNER JOIN wwh_authority c ON b.auth_id=c.auth_id  WHERE a.admin_id = '0' AND c.module = 'Admin' AND c.controller = 'Goods' AND c.action = 'getAttr' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0420s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2016-12-27T20:13:08+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+SQL: SHOW COLUMNS FROM `wwh_authority` [ RunTime:0.0500s ]
+SQL: SHOW COLUMNS FROM `wwh_admin_role` [ RunTime:0.0270s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wwh_admin_role a INNER JOIN wwh_role_auth b ON a.role_id=b.role_id INNER JOIN wwh_authority c ON b.auth_id=c.auth_id  WHERE a.admin_id = '0' AND c.module = 'Admin' AND c.controller = 'Goods' AND c.action = 'getAttr' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0420s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '2'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2016-12-27T20:13:11+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+SQL: SHOW COLUMNS FROM `wwh_authority` [ RunTime:0.0350s ]
+SQL: SHOW COLUMNS FROM `wwh_admin_role` [ RunTime:0.0450s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wwh_admin_role a INNER JOIN wwh_role_auth b ON a.role_id=b.role_id INNER JOIN wwh_authority c ON b.auth_id=c.auth_id  WHERE a.admin_id = '0' AND c.module = 'Admin' AND c.controller = 'Goods' AND c.action = 'getAttr' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0440s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '3'  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2016-12-27T20:13:13+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+SQL: SHOW COLUMNS FROM `wwh_authority` [ RunTime:0.0420s ]
+SQL: SHOW COLUMNS FROM `wwh_admin_role` [ RunTime:0.0270s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wwh_admin_role a INNER JOIN wwh_role_auth b ON a.role_id=b.role_id INNER JOIN wwh_authority c ON b.auth_id=c.auth_id  WHERE a.admin_id = '0' AND c.module = 'Admin' AND c.controller = 'Goods' AND c.action = 'getAttr' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0310s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '4'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011001s ]
+
+[ 2016-12-27T20:13:14+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `wwh_authority` [ RunTime:0.0370s ]
+SQL: SHOW COLUMNS FROM `wwh_admin_role` [ RunTime:0.0340s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wwh_admin_role a INNER JOIN wwh_role_auth b ON a.role_id=b.role_id INNER JOIN wwh_authority c ON b.auth_id=c.auth_id  WHERE a.admin_id = '0' AND c.module = 'Admin' AND c.controller = 'Goods' AND c.action = 'getAttr' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0270s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '2'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.415024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.415024s ]
+
+[ 2016-12-27T21:35:00+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+SQL: SHOW COLUMNS FROM `wwh_authority` [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `wwh_admin_role` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wwh_admin_role a INNER JOIN wwh_role_auth b ON a.role_id=b.role_id INNER JOIN wwh_authority c ON b.auth_id=c.auth_id  WHERE a.admin_id = '0' AND c.module = 'Admin' AND c.controller = 'Goods' AND c.action = 'getAttr' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-12-27T21:35:37+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: SHOW COLUMNS FROM `wwh_authority` [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `wwh_admin_role` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wwh_admin_role a INNER JOIN wwh_role_auth b ON a.role_id=b.role_id INNER JOIN wwh_authority c ON b.auth_id=c.auth_id  WHERE a.admin_id = '0' AND c.module = 'Admin' AND c.controller = 'Goods' AND c.action = 'getAttr' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '2'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000782s ]
+
+[ 2016-12-27T22:02:13+08:00 ] ::1 /wwh_shop/index.php/Admin/Index/index.html
+ERR: SQLSTATE[42000] [1049] Unknown database 'wwh_shop'
+
+[ 2016-12-27T22:02:15+08:00 ] ::1 /wwh_shop/index.php/Admin/Index/index.html
+ERR: SQLSTATE[42000] [1049] Unknown database 'wwh_shop'
+

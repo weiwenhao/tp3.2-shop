@@ -1,0 +1,30 @@
+[ 2016-12-03T11:37:25+08:00 ] ::1 /wwh_shop/index.php/Admin/Categroy/lst
+ERR: 无法加载控制器:Categroy
+
+[ 2016-12-03T19:15:34+08:00 ] ::1 /wwh_shop/index.php/Admin/Category/delete/cat_id/22.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2016-12-03T19:22:18+08:00 ] ::1 /wwh_shop/index.php/Admin/Category/delete/cat_id/2.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wwh_shop.wwh_catgory' doesn't exist
+
+[ 2016-12-03T19:42:21+08:00 ] ::1 /wwh_shop/index.php/Admin/Category/delete/cat_id/2/p/1.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wwh_shop.wwh_' doesn't exist
+
+[ 2016-12-03T21:38:05+08:00 ] ::1 /wwh_shop/index.php/Admin/Category/delete/cat_id/4/p/1.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wwh_shop.wwh_categroy' doesn't exist
+
+[ 2016-12-03T22:55:05+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'b'
+
+[ 2016-12-03T22:58:18+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?brand_id=1&gn=&fp=&tp=5000&ios=&fa=&ta=
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.brand_id' in 'where clause'
+
+[ 2016-12-03T22:58:18+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?brand_id=1&gn=&fp=&tp=5000&ios=&fa=&ta=
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.brand_id' in 'where clause'
+
+[ 2016-12-03T22:58:46+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?brand_id=1&gn=&fp=&tp=5000&ios=&fa=&ta=
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.brand_id' in 'where clause'
+
+[ 2016-12-03T22:58:54+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/goodsList?brand_id=1&gn=&fp=&tp=5000&ios=&fa=&ta=
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.brand_id' in 'where clause'
+

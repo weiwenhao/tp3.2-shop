@@ -1,0 +1,13 @@
+[ 2016-12-09T08:49:57+08:00 ] ::1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '2'  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-12-09T09:28:39+08:00 ] ::1 /wwh_shop/index.php/Admin/Index/goodsTrash.html
+ERR: 非法操作:goodsTrash
+

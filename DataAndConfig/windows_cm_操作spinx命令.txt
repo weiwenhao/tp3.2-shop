@@ -1,0 +1,10 @@
+//����������
+E:\coreseek-3.2.14-win32\bin\indexer.exe -c E:\coreseek-3.2.14-win32\sphinx.conf goods 
+
+E:\coreseek-3.2.14-win32\bin\searchd.exe -c E:\coreseek-3.2.14-win32\sphinx.conf --install
+
+
+//������������
+E:\coreseek-3.2.14-win32\bin\indexer.exe -c E:\coreseek-3.2.14-win32\sphinx.conf new_goods 
+
+E:\coreseek-3.2.14-win32\bin\indexer.exe -c  E:\coreseek-3.2.14-win32\sphinx.conf --marge goods new_goods --merge-dst-range is_update 0 0 --rotate 

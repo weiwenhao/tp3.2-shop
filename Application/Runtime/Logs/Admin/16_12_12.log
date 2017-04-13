@@ -1,0 +1,37 @@
+[ 2016-12-12T09:48:49+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Index/orderQuery.html
+ERR: 非法操作:orderQuery
+
+[ 2016-12-12T09:48:53+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Index/delivery_list.html
+ERR: 非法操作:delivery_list
+
+[ 2016-12-12T09:48:58+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Index/userList.html
+ERR: 非法操作:userList
+
+[ 2016-12-12T09:48:59+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Index/userAdd.html
+ERR: 非法操作:userAdd
+
+[ 2016-12-12T09:49:00+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Index/userMessage.html
+ERR: 非法操作:userMessage
+
+[ 2016-12-12T09:49:08+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Login/
+ERR: 非法操作:index
+
+[ 2016-12-12T09:53:55+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Login/
+ERR: 非法操作:index
+
+[ 2016-12-12T10:36:10+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Privilege/lst.html
+ERR: 无法加载控制器:Privilege
+
+[ 2016-12-12T11:47:57+08:00 ] 127.0.0.1 /wwh_shop/index.php/Admin/Goods/getAttr/type_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `wwh_authority` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `wwh_admin_role` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM wwh_admin_role a INNER JOIN wwh_role_auth b ON a.role_id=b.role_id INNER JOIN wwh_authority c ON b.auth_id=c.auth_id  WHERE a.admin_id = '0' AND c.module = 'Admin' AND c.controller = 'Goods' AND c.action = 'getAttr' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `wwh_attribute` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `wwh_attribute` WHERE `type_id` = '1'  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

@@ -1,0 +1,33 @@
+<layout name="layout" />
+
+<!-- 列表 -->
+<div class="list-div" id="listDiv">
+	<table cellpadding="3" cellspacing="1">
+    	<tr>
+            <th >权限名称 </th>
+            <th >模块</th>
+            <th >控制器</th>
+            <th >操作方法</th>
+            <th >父级id</th>
+			<th width="60">操作</th>
+        </tr>
+		<?php foreach ($data as $k => $v): ?>            
+			<tr class="tron">
+				<td><?php echo str_repeat('--------/', $v['level']); ?><?php echo $v['auth_name']; ?></td>
+				<td><?php echo $v['module']; ?></td>
+				<td><?php echo $v['controller']; ?></td>
+				<td><?php echo $v['action']; ?></td>
+				<td><?php echo $v['parent_id']; ?></td>
+		        <td align="center">
+		        	<a href="<?php echo U('edit?auth_id='.$v['auth_id'].'&p='.I('get.p')); ?>" title="编辑">编辑</a> |
+	                <a href="<?php echo U('delete?auth_id='.$v['auth_id'].'&p='.I('get.p')); ?>" onclick="return confirm('确定要删除吗？');" title="移除">移除</a> 
+		        </td>
+	        </tr>
+        <?php endforeach; ?> 
+	</table>
+</div>
+
+<script>
+</script>
+<script type="text/javascript" src="__PUBLIC__/umeditor1_2_2-utf8-php/third-party/jquery.min.js"></script>
+<script src="__PUBLIC__/Admin/Js/tron.js"></script>

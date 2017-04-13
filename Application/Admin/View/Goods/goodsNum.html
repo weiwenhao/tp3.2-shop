@@ -1,0 +1,112 @@
+<layout name="layout"/>
+
+<div class="form-div">
+</div>
+
+<!-- 商品列表 -->
+<form method="post" action="__SELF__" name="listForm" onsubmit="">
+    <div class="list-div" id="listDiv">
+        <table cellpadding="3" cellspacing="1">
+    <?php if (!$data):?>
+                <tr>
+                    <th>库存量</th>
+                    <th>操作</th>
+                </tr>
+               <tr>
+                   <td align="center"><input type="text" name="goods_number[]" value=""></td>
+                   <td align="center">
+                       <?php //第一行的value为+,其余为 - ,对应$key为0时应该+,反之为-
+                       if($key == 0){
+                           $fuhao = '+';
+                       }else{
+                           $fuhao = '-';
+                       }
+                       ?>
+                       <input type="button" value="<?php echo $fuhao;?>" onclick="add_self(this)" />
+                   </td>
+               </tr>
+                <tr>
+                    <td align="center" colspan="2"><input type="submit" value="提交"></td>
+                </tr>
+
+    <?php else:?>
+
+            <tr>
+             <?php foreach($gnData as $k=>$v):?>
+                <th><?php echo $k;?></th>
+             <?php endforeach;?>
+                <th>库存量</th>
+                <th>操作</th>
+            </tr>
+        <?php foreach($data as $key => $value):?>
+            <tr class="tron">
+            <?php foreach($gnData as $k=>$v): //$k是颜色, $v是一个一维数组,包含一条 goods_attr数据?>
+                <td align="center">
+                    <select name="goods_attr_ids[]">
+                        <option value="">请选择</option>
+                        <?php foreach($v as $k1=>$v1): ?>
+                            <?php
+                                //selected默认值的问题 ,
+                                //$v1['goods_attr_id'] == 此次应该出现的值  $value['goods_attr_ids'],这是一个字符串,应该转化成数组
+                                $goods_attr_ids = explode(',',$value['goods_attr_ids']);
+                                //此次应该出现的值, 比如颜色, 而$goods_attr_ids中的值比如 9,13 其实只有一个代表颜色属性,另外一个是其他属性,所以
+                                //只要判断当前出现的id是否在 $goods_attr_ids这个数组中即可
+                                if(in_array($v1['goods_attr_id'],$goods_attr_ids) ){
+                                    $selected="selected='selected'";
+                                }else{
+                                    $selected='';
+                                }
+                            ?>
+                            <option <?php echo $selected;?> value="<?php echo $v1['goods_attr_id'];?>"><?php echo $v1['attr_value'];?></option>
+                        <?php endforeach;?>
+                    </select>
+                </td>
+            <?php endforeach;//列标签?>
+                <td align="center"><input type="text" name="goods_number[]" value="<?php echo $value['goods_number'];?>"></td>
+                <td align="center">
+                    <?php //第一行的value为+,其余为 - ,对应$key为0时应该+,反之为-
+                        if($key == 0){
+                            $fuhao = '+';
+                        }else{
+                            $fuhao = '-';
+                        }
+                    ?>
+                    <input type="button" value="<?php echo $fuhao;?>" onclick="add_self(this)" />
+                </td>
+            </tr>
+        <?php endforeach //行标签?>
+
+            <tr id="last-tr">
+                <?php $count = count($gnData);?>
+                <td align="center" colspan="<?php echo $count+2;?>"><input type="submit" value="提交"></td>
+            </tr>
+    <?php endif;?>
+        </table>
+    </div>
+</form>
+
+
+<script type="text/javascript" src="__PUBLIC__/umeditor1_2_2-utf8-php/third-party/jquery.min.js"></script>
+<script src="__PUBLIC__/Admin/Js/tron.js"></script>
+<script>
+
+    /*******************添加一行属性记录***********************/
+    function add_self(input) {
+        var tr = $(input).parent().parent();
+        if($(input).val() == '+'){
+            //克隆一行tr
+            var newtr = tr.clone(true);
+            //处理tr
+            newtr.find('td').css('backgroundColor','');
+            newtr.find('input[type="button"]').val('-');
+            newtr.find('input[type="text"]').val('');
+            newtr.find('option').removeAttr('selected');
+            //处理鼠标移入移出事件
+            //追加到最后一行之前
+            $('#last-tr').before(newtr);
+        }else{
+            tr.remove();
+        }
+    }
+
+</script>
