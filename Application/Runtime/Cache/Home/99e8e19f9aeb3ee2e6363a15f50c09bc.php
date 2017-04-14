@@ -458,7 +458,7 @@
                         <dl>
                             <dt>品牌：</dt>
                             <?php foreach ($condition_data['brand'] as $k => $v):?>
-                                <dd><a href="/Home/List/catList/cat_id/1/price/23.00-627/attr_4/%E5%8E%82%E5%95%86_%E6%AF%94%E4%BA%9A%E8%BF%AA/brand_name/<?php echo $v['brand_name'];?>"><?php echo $v['brand_name'];?></a></dd>
+                                <dd><a href="/Home/List/catList/cat_id/1/brand_name/%E5%B0%8F%E7%B1%B3/brand_name/<?php echo $v['brand_name'];?>"><?php echo $v['brand_name'];?></a></dd>
                             <?php endforeach;?>
                         </dl>
                     <?php endif;?>
@@ -466,7 +466,7 @@
                         <dl>
                             <dt>价格：</dt>
                             <?php foreach ($condition_data['price'] as $k => $v):?>
-                                <dd><a href="/Home/List/catList/cat_id/1/price/23.00-627/attr_4/%E5%8E%82%E5%95%86_%E6%AF%94%E4%BA%9A%E8%BF%AA/price/<?php echo $v;?>"><?php echo $v;?></a></dd>
+                                <dd><a href="/Home/List/catList/cat_id/1/brand_name/%E5%B0%8F%E7%B1%B3/price/<?php echo $v;?>"><?php echo $v;?></a></dd>
                             <?php endforeach;?>
                         </dl>
                     <?php endif;?>
@@ -478,7 +478,7 @@
                         <dl <?php if($_i == $count-1){echo 'class="last"';} ?>>
                             <dt><?php echo $k;?>：</dt>
                             <?php foreach ($v as $k1=>$v1):?>
-                                <dd><a href="/Home/List/catList/cat_id/1/price/23.00-627/attr_4/%E5%8E%82%E5%95%86_%E6%AF%94%E4%BA%9A%E8%BF%AA/<?php echo 'attr_'.$v1['attr_id'].'/'.$v1['attr_name'].'_'.$v1['attr_value'];?>">
+                                <dd><a href="/Home/List/catList/cat_id/1/brand_name/%E5%B0%8F%E7%B1%B3/<?php echo 'attr_'.$v1['attr_id'].'/'.$v1['attr_name'].'_'.$v1['attr_value'];?>">
                                         <?php echo $v1['attr_value'];?>
                                     </a>
                                 </dd>

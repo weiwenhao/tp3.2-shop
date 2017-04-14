@@ -15,6 +15,8 @@ return array(
     'DEFAULT_ACTION' => 'index',
     'SHOW_PAGE_TRACE' => true,//开启后才会在界面显示debug信息
     'URL_MODEL'             =>  2,       // URL访问模式,可选参数0、1、2、3,代表以下四种模式：
+    'URL_CASE_INSENSITIVE' =>false,	//始终开启u函数生成的url区分大小写
+
     //图片的配置
     'IMAGE_CONFIG' => array(
         'maxSize'   =>   1024*1024 ,// 设置附件上传大小

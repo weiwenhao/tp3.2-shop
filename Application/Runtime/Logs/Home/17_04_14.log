@@ -1,0 +1,156 @@
+[ 2017-04-14T10:51:41+08:00 ] 127.0.0.1 /Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) /home/weiwenhao/Code/wwh_shop/Application/Home/Model/CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0099s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0010s ]
+SQL: SELECT `goods_id`,`goods_name`,`sm_goods_img` FROM `wwh_goods` WHERE `goods_id` = 95 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_attr` [ RunTime:0.0073s ]
+SQL: SELECT b.attr_name,a.attr_value FROM wwh_goods_attr a LEFT JOIN wwh_attribute b ON a.attr_id=b.attr_id  WHERE a.goods_attr_id IN ('60')  [ RunTime:0.0047s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `wwh_member_price` [ RunTime:0.0012s ]
+SQL: SELECT `member_price` FROM `wwh_member_price` WHERE `goods_id` = '95' AND `level_id` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `shop_price`,`promote_start_date`,`promote_end_date`,`promote_price` FROM `wwh_goods` WHERE `goods_id` = '95' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-04-14T10:51:41+08:00 ] 127.0.0.1 /Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) /home/weiwenhao/Code/wwh_shop/Application/Admin/Model/CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000038s ]
+
+[ 2017-04-14T10:51:45+08:00 ] 127.0.0.1 /Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) /home/weiwenhao/Code/wwh_shop/Application/Home/Model/CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0008s ]
+SQL: SELECT `goods_id`,`goods_name`,`sm_goods_img` FROM `wwh_goods` WHERE `goods_id` = 95 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_attr` [ RunTime:0.0005s ]
+SQL: SELECT b.attr_name,a.attr_value FROM wwh_goods_attr a LEFT JOIN wwh_attribute b ON a.attr_id=b.attr_id  WHERE a.goods_attr_id IN ('60')  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `wwh_member_price` [ RunTime:0.0005s ]
+SQL: SELECT `member_price` FROM `wwh_member_price` WHERE `goods_id` = '95' AND `level_id` = null LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `shop_price`,`promote_start_date`,`promote_end_date`,`promote_price` FROM `wwh_goods` WHERE `goods_id` = '95' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-04-14T10:51:45+08:00 ] 127.0.0.1 /Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000102s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) /home/weiwenhao/Code/wwh_shop/Application/Admin/Model/CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-04-14T10:51:48+08:00 ] 127.0.0.1 /Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) /home/weiwenhao/Code/wwh_shop/Application/Home/Model/CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0018s ]
+SQL: SELECT `goods_id`,`goods_name`,`sm_goods_img` FROM `wwh_goods` WHERE `goods_id` = 95 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_attr` [ RunTime:0.0036s ]
+SQL: SELECT b.attr_name,a.attr_value FROM wwh_goods_attr a LEFT JOIN wwh_attribute b ON a.attr_id=b.attr_id  WHERE a.goods_attr_id IN ('60')  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `wwh_member_price` [ RunTime:0.0005s ]
+SQL: SELECT `member_price` FROM `wwh_member_price` WHERE `goods_id` = '95' AND `level_id` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `shop_price`,`promote_start_date`,`promote_end_date`,`promote_price` FROM `wwh_goods` WHERE `goods_id` = '95' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-04-14T10:51:48+08:00 ] 127.0.0.1 /Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) /home/weiwenhao/Code/wwh_shop/Application/Admin/Model/CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-04-14T10:51:51+08:00 ] 127.0.0.1 /Home/Cart/ajaxgetCart.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Home\Model\CartModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) /home/weiwenhao/Code/wwh_shop/Application/Home/Model/CartModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_cart` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0006s ]
+SQL: SELECT `goods_id`,`goods_name`,`sm_goods_img` FROM `wwh_goods` WHERE `goods_id` = 95 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wwh_goods_attr` [ RunTime:0.0010s ]
+SQL: SELECT b.attr_name,a.attr_value FROM wwh_goods_attr a LEFT JOIN wwh_attribute b ON a.attr_id=b.attr_id  WHERE a.goods_attr_id IN ('60')  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `wwh_member_price` [ RunTime:0.0013s ]
+SQL: SELECT `member_price` FROM `wwh_member_price` WHERE `goods_id` = '95' AND `level_id` = null LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `shop_price`,`promote_start_date`,`promote_end_date`,`promote_price` FROM `wwh_goods` WHERE `goods_id` = '95' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000058s ]
+
+[ 2017-04-14T10:51:51+08:00 ] 127.0.0.1 /Home/Index/ajaxHistory/goods_id/91.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) /home/weiwenhao/Code/wwh_shop/Application/Admin/Model/CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0008s ]
+SQL: SELECT `goods_id`,`goods_name`,`sm_goods_img` FROM `wwh_goods` WHERE `goods_id` IN ('91','95','94','21','97','40') ORDER BY FIELD(goods_id,91,95,94,21,97,40) LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-04-14T10:51:51+08:00 ] 127.0.0.1 /Home/Index/ajaxPrice/goods_id/91.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) /home/weiwenhao/Code/wwh_shop/Application/Admin/Model/CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `wwh_member_price` [ RunTime:0.0010s ]
+SQL: SELECT `member_price` FROM `wwh_member_price` WHERE `goods_id` = '91' AND `level_id` = null LIMIT 1   [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `wwh_goods` [ RunTime:0.0020s ]
+SQL: SELECT `shop_price`,`promote_start_date`,`promote_end_date`,`promote_price` FROM `wwh_goods` WHERE `goods_id` = '91' LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-04-14T10:51:51+08:00 ] 127.0.0.1 /Home/Comment/ajaxPage/goods_id/91/p/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `wwh_comment` [ RunTime:0.0485s ]
+SQL: SELECT `level` FROM `wwh_comment` WHERE `goods_id` = 91  [ RunTime:0.0003s ]
+NOTIC: [2] Division by zero /home/weiwenhao/Code/wwh_shop/Application/Home/Model/CommentModel.class.php 第 90 行.
+NOTIC: [2] Division by zero /home/weiwenhao/Code/wwh_shop/Application/Home/Model/CommentModel.class.php 第 91 行.
+NOTIC: [2] Division by zero /home/weiwenhao/Code/wwh_shop/Application/Home/Model/CommentModel.class.php 第 92 行.
+SQL: SHOW COLUMNS FROM `wwh_trait` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `wwh_trait` WHERE `goods_id` = 91  [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wwh_comment` WHERE `goods_id` = 91 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT a.*,b.member_id,b.member_name,b.face,count(c.reply_id) reply_count FROM wwh_comment a LEFT JOIN wwh_member b ON a.member_id=b.member_id LEFT JOIN wwh_reply c ON a.comment_id=c.comment_id  WHERE a.goods_id = '91' GROUP BY a.comment_id ORDER BY a.comment_id desc LIMIT 0,5   [ RunTime:0.0166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-04-14T10:51:51+08:00 ] 127.0.0.1 /Home/Index/ajaxIfLogin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Admin\Model\CategoryModel::_before_delete(&$option) should be compatible with Think\Model::_before_delete($options) /home/weiwenhao/Code/wwh_shop/Application/Admin/Model/CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `wwh_category` [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000046s ]
+
