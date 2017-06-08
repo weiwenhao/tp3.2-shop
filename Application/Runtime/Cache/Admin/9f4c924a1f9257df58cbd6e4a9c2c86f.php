@@ -21,7 +21,7 @@
 </div>
 
 <!-- 商品列表 -->
-<form method="post" action="/Admin/Goods/goodsNum/goods_id/97.html" name="listForm" onsubmit="">
+<form method="post" action="/Admin/Goods/goodsNum/goods_id/88.html" name="listForm" onsubmit="">
     <div class="list-div" id="listDiv">
         <table cellpadding="3" cellspacing="1">
     <?php if (!$data):?>

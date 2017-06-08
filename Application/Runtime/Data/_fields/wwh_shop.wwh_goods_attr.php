@@ -1,0 +1,1 @@
+a:6:{i:0;s:13:"goods_attr_id";i:1;s:8:"goods_id";i:2;s:7:"attr_id";i:3;s:10:"attr_value";s:3:"_pk";s:13:"goods_attr_id";s:5:"_type";a:4:{s:13:"goods_attr_id";s:21:"mediumint(8) unsigned";s:8:"goods_id";s:21:"mediumint(8) unsigned";s:7:"attr_id";s:21:"mediumint(8) unsigned";s:10:"attr_value";s:12:"varchar(150)";}}

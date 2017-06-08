@@ -1,0 +1,1 @@
+a:7:{i:0;s:7:"cart_id";i:1;s:9:"member_id";i:2;s:8:"goods_id";i:3;s:13:"goods_attr_id";i:4;s:11:"shop_number";s:3:"_pk";s:7:"cart_id";s:5:"_type";a:5:{s:7:"cart_id";s:21:"mediumint(8) unsigned";s:9:"member_id";s:21:"mediumint(8) unsigned";s:8:"goods_id";s:21:"mediumint(8) unsigned";s:13:"goods_attr_id";s:11:"varchar(50)";s:11:"shop_number";s:21:"mediumint(8) unsigned";}}

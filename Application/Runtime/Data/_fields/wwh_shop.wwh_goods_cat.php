@@ -1,0 +1,1 @@
+a:3:{i:0;s:8:"goods_id";i:1;s:6:"cat_id";s:5:"_type";a:2:{s:8:"goods_id";s:21:"mediumint(8) unsigned";s:6:"cat_id";s:21:"mediumint(8) unsigned";}}

@@ -57,7 +57,6 @@ class GoodsController extends BaseController {
         foreach ($gnData as $k=>$v){
             $_gnData[$v[attr_name]][] = $v;
         }
-
         //根据商品id获得已经拥有的商品库存
         $data = D('goods_number')->where(array(
             'goods_id' => array('eq',$goods_id),

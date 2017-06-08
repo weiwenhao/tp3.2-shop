@@ -13,7 +13,7 @@ return array(
     'DEFAULT_MODULE' => 'Home',
     'DEFAULT_CONTROLLER'=>  'Index', // 默认控制器名称
     'DEFAULT_ACTION' => 'index',
-    'SHOW_PAGE_TRACE' => true,//开启后才会在界面显示debug信息
+    'SHOW_PAGE_TRACE' => false,//开启后才会在界面显示debug信息
     'URL_MODEL'             =>  2,       // URL访问模式,可选参数0、1、2、3,代表以下四种模式：
     'URL_CASE_INSENSITIVE' =>false,	//始终开启u函数生成的url区分大小写
 
